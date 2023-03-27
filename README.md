@@ -1,6 +1,6 @@
 # Hahing
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahchash%2Fhit-counter&count_bg=%2301167A&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahchash%2Fhit-counter&count_bg=%2301167A&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 The objective of this project is to use locality-sensitive hashing to find similarities between medical documents. Python and Bash will be used to implement this project.
 
 To begin, relevant medical documents will be collected and stored in a suitable format for processing. The locality-sensitive hashing technique will then be applied, which is commonly used for similarity search in large datasets.
