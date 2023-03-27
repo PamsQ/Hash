@@ -4,7 +4,7 @@ The objective of this project is to use locality-sensitive hashing to find simil
 
 To begin, relevant medical documents will be collected and stored in a suitable format for processing (PDF to TXT). The locality-sensitive hashing technique will then be applied, which is commonly used for similarity search in large datasets.
 
-Once the locality-sensitive hashing technique has been applied, medical documents with similarities can be searched for based on the generated hash values. This will help identify medical documents containing similar information, which can be useful in various fields of medicine such as medical research, pharmacology, and healthcare in general. A hash table is used to maintain a dynamic or static set of elements. 
+Once the locality-sensitive hashing technique has been applied, medical documents with similarities can be searched for based on the generated hash values. This will help identify medical documents containing similar information, which can be useful in various fields of medicine such as medical research, pharmacology, and healthcare in general. A [Hash](https://www.it.uc3m.es/pbasanta/asng/course_notes/dynamic_data_structures_en.html) table is used to maintain a dynamic or static set of elements. 
 
 In summary, this project will use the locality-sensitive hashing technique to search for similarities between medical documents. Python and Bash will be used to implement the project, and the results are expected to be useful for medical research and healthcare in general.
 
