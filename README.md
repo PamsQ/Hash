@@ -1,4 +1,4 @@
-# Hahing
+# Hashing
 
 The objective of this project is to use locality-sensitive hashing to find similarities between medical documents. Python and Bash will be used to implement this project.
 
